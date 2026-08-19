@@ -1,10 +1,12 @@
-# 📊 Material de Cursado - Fundamentos de la Ciencia de Datos
+# Fundamentos de la Ciencia de Datos
 
-Repositorio que contiene datasets, notebooks y resultados generados durante el cursado de la materia **Fundamentos de la Ciencia de Datos** (año 2026) de la carrera de Técnico Universitario en Inteligencia Artificial.
+Repositorio con material de trabajo desarrollado durante el cursado de la materia **Fundamentos de la Ciencia de Datos** (2026), correspondiente a la carrera de **Técnico Universitario en Inteligencia Artificial**.
+
+Incluye notebooks, ejercicios, trabajos prácticos, datasets y resultados generados durante las distintas prácticas de la materia.
 
 ## 📁 Estructura del repositorio
 
-```
+```text
 ├── datasets/            # Conjuntos de datos utilizados en las prácticas (no disponible)
 ├── img/                 # Imágenes utilizadas
 ├── notebooks/           # Notebooks de trabajo
