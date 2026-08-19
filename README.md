@@ -1,3 +1,5 @@
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
+
 # Fundamentos de la Ciencia de Datos
 
 Repositorio con material de trabajo desarrollado durante el cursado de la materia **Fundamentos de la Ciencia de Datos** (2026), correspondiente a la carrera de **Técnico Universitario en Inteligencia Artificial**.
